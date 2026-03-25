@@ -1,0 +1,18 @@
+{
+  "name": "IAM Mastery Course",
+  "short_name": "IAM Mastery",
+  "description": "12-Week Professional Identity & Access Management Course",
+  "start_url": "/iam-mastery-course/",
+  "display": "standalone",
+  "background_color": "#080c14",
+  "theme_color": "#080c14",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
